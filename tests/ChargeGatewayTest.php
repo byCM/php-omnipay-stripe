@@ -266,3 +266,4 @@ class ChargeGatewayTest extends GatewayTestCase
         $this->assertSame('ii_17ZPbRCryC4r2g4vIdAFxptK', $request->getInvoiceItemReference());
     }
 }
+
